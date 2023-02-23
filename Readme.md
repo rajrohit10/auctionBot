@@ -1,0 +1,1 @@
+This repo contains the code for the auction bot created for Comdex liquidations. This in be open souce and generic auction bot for anyone to use with an instruction set on how to use it.
